@@ -1,0 +1,6 @@
+User 16
+408, ('Jack (1996)', '07-Aug-1996'), 5
+169, ('Cinema Paradiso (1988)', '01-Jan-1988'), 5
+22, ('Taxi Driver (1976)', '16-Feb-1996'), 5
+12, ('Mighty Aphrodite (1995)', '30-Oct-1995'), 4.995
+651, ('Rosencrantz and Guildenstern Are Dead (1990)', '01-Jan-1990'), 4.975
